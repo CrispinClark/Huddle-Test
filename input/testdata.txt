@@ -1,0 +1,13 @@
+{
+	"roads":[
+		{"start":"A", "end":"B", "length":5}
+		, {"start":"B", "end":"C", "length":4}
+		, {"start":"C", "end":"D", "length":7}
+		, {"start":"D", "end":"C", "length":8}
+		, {"start":"D", "end":"E", "length":6}
+		, {"start":"A", "end":"D", "length":5}
+		, {"start":"C", "end":"E", "length":2}
+		, {"start":"E", "end":"B", "length":3}
+		, {"start":"A", "end":"E", "length":7}
+	]
+}
